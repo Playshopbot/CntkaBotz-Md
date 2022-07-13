@@ -26,21 +26,15 @@ P̺͆L̺͆A̺͆Y̺͆S̺͆H̺͆O̺͆P̺͆
 •-----•-----•-----•-----•-----•-----•-----•-----•-----•-----•------•
 
 *List sewa*
-*PERMANEN : 4.000*
+*PERMANEN : 3.000*
 
 •-----•-----•-----•-----•-----•-----•-----•-----•-----•-----•------•
 *🤖 : Bot on 24 jam,anti diley di jamin nyaman*
 *MAX 257 MEMBER*
 •-----•-----•-----•-----•-----•-----•-----•-----•-----•-----•------•
 
-
-
-
-
-
-
    ♡ ㅤ     ❍ㅤ       ⎙ㅤ       ⌲ `
-conn.sendHydrated(m.chat, str, wm, pepe, 'https://instagram.com/itsme_nitsu', 'IG OWNER', null, null, [
+conn.sendHydrated(m.chat, str, wm, pepe, 'https://bit.ly/playshop1', 'IG OWNER', null, null, [
 ['OWNER', '/owner']
 ], m)
 
